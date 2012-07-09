@@ -1,3 +1,4 @@
 [
-  { "keys": ["command+§"], "command": "restart_rack", "args": {}, "context": [] }
+  { "keys": ["command+§"], "command": "restart_rack", "args": {}, "context": [] },
+  { "keys": ["control+shift+h"], "command": "extract_partial", "args": {}, "context": [] }
 ]
