@@ -1,2 +1,3 @@
 [
+  { "keys": ["command+§"], "command": "restart_rack", "args": {}, "context": [] }
 ]
