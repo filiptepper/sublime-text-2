@@ -2,6 +2,8 @@
 	"auto_upgrade_last_run": 1341833855,
 	"installed_packages":
 	[
+		"Package Control",
+		"RailsCasts Colour Scheme",
 		"Theme - Soda"
 	]
 }

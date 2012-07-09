@@ -1,43 +1,45 @@
 {
-  "auto_match_enabled": true,
-  "detect_indentation": false,
-  "folder_exclude_patterns":
-  [
-    "coverage",
-    "log",
-    "tmp",
-    ".bundle",
-    ".git",
-    ".sass-cache",
-    ".svn"
-  ],
-  "font_face": "DejaVu Sans Mono",
-  "font_size": 12.0,
-  "gutter": true,
-  "highlight_active_indent_guide": true,
-  "highlight_line": true,
-  "hot_exit": false,
-  "ignored_packages": [
-    "Vintage"
-  ],
-  "line_numbers": true,
-  "match_brackets": true,
-  "match_brackets_angle": true,
-  "match_brackets_braces": true,
-  "match_brackets_square": true,
-  "remember_open_files": false,
-  "rulers":
-  [
-    80
-  ],
-  "show_minimap": false,
-  "show_tab_close_buttons": true,
-  "spell_check": true,
-  "tab_completion": true,
-  "tab_size": 2,
-  "theme": "Soda Dark.sublime-theme",
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true,
-  "use_tab_stops": true,
-  "word_wrap": false
+	"auto_match_enabled": true,
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"detect_indentation": false,
+	"folder_exclude_patterns":
+	[
+		"coverage",
+		"log",
+		"tmp",
+		".bundle",
+		".git",
+		".sass-cache",
+		".svn"
+	],
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 12.0,
+	"gutter": true,
+	"highlight_active_indent_guide": true,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_square": true,
+	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
+	"show_minimap": false,
+	"show_tab_close_buttons": true,
+	"spell_check": true,
+	"tab_completion": true,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": false
 }
