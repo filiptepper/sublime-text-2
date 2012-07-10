@@ -1,7 +1,8 @@
 {
-	"auto_upgrade_last_run": 1341833855,
+	"auto_upgrade_last_run": 1341924632,
 	"installed_packages":
 	[
+		"Git",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"SublimeTextGitX",
