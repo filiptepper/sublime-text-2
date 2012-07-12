@@ -1,5 +1,5 @@
 [
   { "keys": ["command+§"], "command": "restart_rack", "args": {}, "context": [] },
   { "keys": ["control+shift+h"], "command": "extract_partial", "args": {}, "context": [] },
-  { "keys": ["super+."], "command": "gitx_open" }
+  { "keys": ["command+shift+."], "command": "gitx_open" }
 ]
