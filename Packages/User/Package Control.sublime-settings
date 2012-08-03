@@ -1,12 +1,17 @@
 {
-	"auto_upgrade_last_run": 1342079716,
+	"auto_upgrade_last_run": 1343979257,
 	"installed_packages":
 	[
+		"Cucumber",
+		"ERB Insert and Toggle Commands",
 		"Git",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"RubyTest",
+		"Sass",
+		"Sublime-HTMLPrettify",
 		"SublimeTextGitX",
-		"Theme - Soda"
+		"Theme - Soda",
+		"ZenCoding"
 	]
 }
