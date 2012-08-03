@@ -2,5 +2,7 @@
   { "keys": ["command+§"], "command": "restart_rack", "args": {}, "context": [] },
   { "keys": ["control+shift+h"], "command": "extract_partial", "args": {}, "context": [] },
   { "keys": ["command+shift+."], "command": "gitx_open" },
-  { "keys": ["ctrl+shift+."], "command": "erb" }
+  { "keys": ["ctrl+shift+."], "command": "erb" },
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+shift+v"], "command": "paste" }
 ]
