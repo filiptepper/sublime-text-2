@@ -4,9 +4,9 @@ Dark and light custom UI themes for Sublime Text 2.
 
 ## Design
 
-![Soda Light Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-light-theme.png?v=3)
+![Soda Light Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-light-theme.png?v=4)
 
-![Soda Dark Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-dark-theme.png?v=1)
+![Soda Dark Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-dark-theme.png?v=2)
 
 ## Installation
 
@@ -59,9 +59,13 @@ By default, a square tab style is used. If you'd prefer to use the original curv
 
 ### Retina Resolution UI
 
-Soda Light has been designed to take advantage of retina resolution (high-dpi) displays. Retina support for Soda Dark is coming soon.
+Soda Theme has been designed to take advantage of retina resolution (high-dpi) displays. Both Soda Light and Soda Dark support retina displays.
 
 ![Soda Retina](http://buymeasoda.github.com/soda-theme/images/features/soda-retina.png)
+
+### Theme Customisation
+
+Sublime Text 2 provides an elegant way to tweak existing themes without having to duplicate or maintain a separate copy of the original theme. If there are aspects of Soda Theme that you would like to adjust, take a look at the [theme customisation](https://github.com/buymeasoda/soda-theme/wiki/Theme-customisation) wiki page.
 
 ## Bonus Options
 
@@ -94,5 +98,3 @@ The following details apply to the Creative Commons license "author specified" c
 * Attribution example: Based on Soda Theme by Ian Hill (http://buymeasoda.com/)
 
 * Naming guidelines: If you create and distribute a derivative theme, please give your theme a unique and original name that does not directly include "Soda Theme" (or a close variant) in the main project title, repo name or Package Control name.
-
-The Soda Dark theme contains some icons from the excellent [Pictos](http://pictos.drewwilson.com/) series by Drew Wilson which I have a license for. Any use of these icons, other than for the purpose of the theme itself, would need to comply with Drew's [icon licensing agreement](http://stockart.drewwilson.com/license/).
