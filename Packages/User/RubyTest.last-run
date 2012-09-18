@@ -1,4 +1,5 @@
 {
 	"last_test_file": "analyses_controller_test.rb",
-	"last_test_run": "cd /Users/filip/Code/monitor-rx && ruby -Itest test/functional/analyses_controller_test.rb -n test_should_response_with_success_if_valid_request_was_send_to_controller"
+	"last_test_run": "ruby -Itest test/functional/admin/employees_controller_test.rb",
+	"last_test_working_dir": "/Users/filiptepper/Projects/admin-console"
 }
