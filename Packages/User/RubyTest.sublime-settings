@@ -1,0 +1,5 @@
+{
+  "ruby_use_scratch": true,
+  "run_ruby_unit_command": "testdrb {relative_path}",
+  "run_single_ruby_unit_command": "testdrb {relative_path} -- -n '{test_name}'"
+}

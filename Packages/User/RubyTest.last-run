@@ -1,5 +1,5 @@
 {
 	"last_test_file": "analyses_controller_test.rb",
-	"last_test_run": "ruby -Itest test/functional/admin/employees_controller_test.rb",
+	"last_test_run": "testdrb test/functional/admin/events_controller_test.rb",
 	"last_test_working_dir": "/Users/filiptepper/Projects/admin-console"
 }

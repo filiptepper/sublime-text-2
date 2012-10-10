@@ -1,10 +1,11 @@
 {
-	"auto_upgrade_last_run": 1347866433,
+	"auto_upgrade_last_run": 1349862413,
 	"installed_packages":
 	[
 		"Cucumber",
 		"ERB Insert and Toggle Commands",
 		"Git",
+		"Markdown Preview",
 		"Package Control",
 		"RailsCasts Colour Scheme",
 		"RubyTest",
